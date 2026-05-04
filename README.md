@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> معاك حكاية عمري وسنيني
+> في قلبي نار الشوق بتناديني
+> يا روح الروح طيفك يداويني
+> وكل نبضة فيك بتحييني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
