@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-hekayet-omry/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Ma3ak Hekayet Omry](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Ma3ak Hekayet Omry](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
