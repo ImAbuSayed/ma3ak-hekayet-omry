@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma3ak Hekayet Omry
+
+This log tracks the cryptographic history and versioning for the song **Ma3ak Hekayet Omry** (ma3ak-hekayet-omry).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:37:21.477571 | `v1` | `cc6f340c242df0c6e43439224ceb9b7f449c721a1fd7694115450fc145fe1ce8` | `bae703e47ff437be02c6b66bb7589ad0f7c47067576af39fc8973dbdd9b968d0` | `2026-05-08_ma3ak-hekayet-omry-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
